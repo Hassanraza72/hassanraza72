@@ -4,7 +4,7 @@
 
 
 <p>I am an enthusiastic Data Engineer seeking to further my skills in order to play a key part within a wider team.
- Having a background in mathematics not only developed my attention to detail skills but also enhanced my problem solving skills. Wanting to enhance these skills further has been heightened through my experiences on the Generation UK & Ireland Data Engineering training programme where I am a recent graduate. Through this experience I have gained extensive experience in SQL, Python, Docker as well as working as part of a team to complete a group project. Ultimately I want to continue to be challenged and to continue to learn whilst
+ Having a background in Software Engineering not only developed my attention to detail skills but also enhanced my problem solving skills. Wanting to enhance these skills further has been heightened through my experiences on the Generation UK & Ireland Data Engineering training programme. Through this experience I have gained extensive experience in SQL, Python, Docker as well as working as part of a team to complete a group project. Ultimately I want to continue to be challenged and to continue to learn whilst
  using my problem solving knowledge in a Junior Data Engineer position.
 <\p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanraza72&label=Profile%20views&color=0e75b6&style=flat" alt="hassanraza72" /> </p>
