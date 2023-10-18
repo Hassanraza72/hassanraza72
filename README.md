@@ -1,4 +1,4 @@
-<img  alt="Coding" height='550' width="1500" src="https://databand.ai/wp-content/uploads/2021/09/Hero-image-illustration-video.gif">
+<img  alt="Coding" height='430' width="1500" src="https://databand.ai/wp-content/uploads/2021/09/Hero-image-illustration-video.gif">
 <h1 align="center">Hi 👋, I'm Hassan Raza</h1>
 <h3 align="center">A Junior Data Engineer from UK</h3>
 
