@@ -1,12 +1,11 @@
 <img  alt="Coding" height='430' width="1500" src="https://databand.ai/wp-content/uploads/2021/09/Hero-image-illustration-video.gif">
-<h1 align="center">Hi 👋, I'm Hassan Raza</h1>
+<h1 align="center">Hi 👋, I'm Syed Hassan</h1>
 <h3 align="center">A Junior Data Engineer from UK</h3>
 
 
 <p>I am an enthusiastic Data Engineer seeking to further my skills in order to play a key part within a wider team.
  Having a background in Software Engineering not only developed my attention to detail skills but also enhanced my problem solving skills. Wanting to enhance these skills further has been heightened through my experiences on the Generation UK & Ireland Data Engineering training programme. Through this experience I have gained extensive experience in SQL, Python, Docker as well as working as part of a team to complete a group project. Ultimately I want to continue to be challenged and to continue to learn whilst
- using my problem solving knowledge in a Junior Data Engineer position.
-<\p>
+ using my problem solving knowledge in a Junior Data Engineer position.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanraza72&label=Profile%20views&color=0e75b6&style=flat" alt="hassanraza72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanraza72" alt="hassanraza72" /></a> </p>
